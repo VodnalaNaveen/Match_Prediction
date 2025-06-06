@@ -106,6 +106,7 @@ total time taken for 5 prediction is 0.0892 seconds
 💘 It's a Match!
 💔 No Match.
 ```
+---
 
 ## 📈 Hyperparameter Optimization
 
@@ -124,6 +125,7 @@ Used Optuna for tuning with:
 
  * Validation Recall: 0.8000
 
+---
 
 ## ⚙️ Technologies Used
 
@@ -163,6 +165,7 @@ python inference.py --weights_path weights.h5 --num_preds 5
 ```
 streamlit run app.py
 ```
+---
 
 ## 📂 Project Structure
 
